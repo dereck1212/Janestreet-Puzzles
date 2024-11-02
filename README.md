@@ -12,4 +12,4 @@ The rules for scoring are:
 
 The puzzle asks you to find values for A, B, and C (with A + B + C less than 50) along with valid knight’s tours that meet the scoring criteria.
 
-For more details, check out the puzzle at Jane Street’s puzzle page ￼. https://www.janestreet.com/puzzles/current-puzzle/
+For more details, check out the puzzle at Jane Street’s puzzle page ￼. https://www.janestreet.com/puzzles/knight-moves-6-index/
